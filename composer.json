@@ -1,5 +1,5 @@
 {
-    "name": "dragnsurvey/laravel-qr",
+    "name": "tipo94/laravel-qr-code",
     "description": "QR Code Generator for PHP wrapper for Laravel",
     "license": "MIT",
     "authors": [
